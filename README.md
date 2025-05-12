@@ -24,3 +24,5 @@ Através da estruturação, visualização e interpretação dos dados, foi poss
 - Duração média da visita
 - Conversão por canal
 - Geração de insights acionáveis para otimização de campanhas
+
+### Veja a Dashboard Completa e Análises [Aqui](https://app.powerbi.com/groups/me/reports/767ffdce-e125-4c15-ba24-61dd138f327e/bcd90a1e2632bbac9d48?experience=power-bi)
